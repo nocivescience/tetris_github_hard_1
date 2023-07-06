@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
+body {
+  font-family: "Press Start 2P", cursive;
+}
+body #tetris {
+  margin: 1em auto;
+  padding: 1em;
+  border: 4px solid #131313;
+  background-color: #4d4d4d;
+}
+body #stats {
+  display: inline-block;
+  vertical-align: top;
+}
+body #canvas {
+  display: inline-block;
+  vertical-align: top;
+  box-shadow: 2px 2px 22px #131313;
+  border: 4px solid #131313;
+  background-color: #4d4d4d;
+}
+body #menu {
+  display: inline-block;
+  vertical-align: top;
+  position: relative;
+}
+body #menu p {
+  margin: 0.5em 0;
+  text-align: center;
+}
+body #menu p a {
+  text-decoration: none;
+  color: #00ff08;
+}
+body #upcoming {
+  display: block;
+  margin: 0 auto;
+  background-color: #4d4d4d;
+}/*# sourceMappingURL=cuarta_parte.css.map */
